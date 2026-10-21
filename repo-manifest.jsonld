@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/bokeh/bokeh-django/commit/ce5cfca5a32b494a962d6bd0285ef751da5034fb",
       "git:hexsha": "ce5cfca5a32b494a962d6bd0285ef751da5034fb",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.1",
+      "repolex:parsedAt": "2026-10-21T03:01:23.934591+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bokeh/bokeh-django/commit/fe63a7e7e6d1e6fb02c0851e6edc95a0adc8965e",
