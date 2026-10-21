@@ -1,0 +1,11 @@
+{
+  "org": "bokeh",
+  "repo": "bokeh-django",
+  "versions": [
+    {
+      "commit": "ce5cfca5a32b494a962d6bd0285ef751da5034fb",
+      "tag": "v0.2.1",
+      "parsed_at": "2026-10-21T03:01:23.935080+00:00"
+    }
+  ]
+}
