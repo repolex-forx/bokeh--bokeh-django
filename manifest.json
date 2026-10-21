@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "bokeh",
+  "repo": "bokeh-django",
+  "versions": [
+    {
+      "commit": "ce5cfca5a32b494a962d6bd0285ef751da5034fb",
+      "parsed_at": "2026-10-21T02:59:13.435868+00:00",
+      "tag": "v0.2.1",
+      "filetree": "filetree/ce5cfca5a32b494a962d6bd0285ef751da5034fb.nq.gz",
+      "blobs": [
+        "blob/d35ba52048cdff1cc7a41996632192ea32603051.nq.gz",
+        "blob/c41c1b870169015c44650f231869dd62a324db27.nq.gz",
+        "blob/7f6492fdc2690f28664587a2adf19401bf059026.nq.gz",
+        "blob/3eae80e489cfda92173305e9da8979b0b7122140.nq.gz",
+        "blob/e946bbf73ca7db98a79d7797486a1c7add425f7b.nq.gz",
+        "blob/1d1affdea8c151f93ec7bab0c69d5475838ad8f8.nq.gz",
+        "blob/20b66e882c1168f551e0cefefcebd43b79bf7ed8.nq.gz",
+        "blob/a08f947ab32ba9145a3cef653d77fbe5dc014c4a.nq.gz",
+        "blob/ab160c31e4d3aa14f616e611b03a19719075d656.nq.gz",
+        "blob/adf385dbd60d98d66e6281cc8c0fc19f3c3122d8.nq.gz",
+        "blob/9160afdfa3b8d0a4baaf8dec8d406297b08304f1.nq.gz",
+        "blob/766ef3d2b268627f2aee61baeb52729a4911eeca.nq.gz",
+        "blob/8fa7eb66e427d9779ef9f7cd32f231ac2816715b.nq.gz",
+        "blob/e2b7ef427c001b7cd40eff8b4580406ce7e78d12.nq.gz",
+        "blob/0575a580faaa0523a0aa4b16e98425a128849fc0.nq.gz",
+        "blob/abf247cf2182da80110e4138d68e8774e2384734.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8818be6db92acfd7e06ea9341c05b2f89d6f52cf.nq.gz",
+        "blob/ae46b5315c99ced06d3028f29be599818b6ca2c8.nq.gz",
+        "blob/fab0e1c228f943a802ddd1adfaab6c3919f96e1c.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
