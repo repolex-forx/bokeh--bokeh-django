@@ -1,0 +1,7 @@
+[2026-10-21T03:00:17Z] === AST ITERATION 1 START | repo=bokeh/bokeh-django sha=ce5cfca5 ===
+[2026-10-21T03:00:17Z] [iter=1] PHASE START: ast repo=bokeh/bokeh-django sha=ce5cfca5
+[2026-10-21T03:00:17Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T03:00:20Z] [iter=1] AST chunks built count=1 triples=50128
+[2026-10-21T03:00:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ce5cfca5a32b494a962d6bd0285ef751da5034fb/.complete
+[2026-10-21T03:00:20Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-10-21T03:00:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
